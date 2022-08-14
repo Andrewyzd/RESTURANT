@@ -1,3 +1,5 @@
 this is the thrid file
 
 I am teaching the git command.
+
+I am trying to merge the branches.
